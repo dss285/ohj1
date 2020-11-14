@@ -1,0 +1,11 @@
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\bin\Debug\netcoreapp2.1\tenttiohjelmointi1.deps.json
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\bin\Debug\netcoreapp2.1\tenttiohjelmointi1.runtimeconfig.json
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\bin\Debug\netcoreapp2.1\tenttiohjelmointi1.runtimeconfig.dev.json
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\bin\Debug\netcoreapp2.1\tenttiohjelmointi1.dll
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\bin\Debug\netcoreapp2.1\tenttiohjelmointi1.pdb
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\obj\Debug\netcoreapp2.1\tenttiohjelmointi1.csprojAssemblyReference.cache
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\obj\Debug\netcoreapp2.1\tenttiohjelmointi1.csproj.CoreCompileInputs.cache
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\obj\Debug\netcoreapp2.1\tenttiohjelmointi1.AssemblyInfoInputs.cache
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\obj\Debug\netcoreapp2.1\tenttiohjelmointi1.AssemblyInfo.cs
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\obj\Debug\netcoreapp2.1\tenttiohjelmointi1.dll
+C:\Users\Tommi\source\repos\tenttiohjelmointi1\tenttiohjelmointi1\obj\Debug\netcoreapp2.1\tenttiohjelmointi1.pdb
