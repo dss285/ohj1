@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "viikko41": {
+      "commandName": "Project",
+      "commandLineArgs": "asd 123 salkdas asd"
+    }
+  }
+}

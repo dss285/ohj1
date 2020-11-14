@@ -1,0 +1,11 @@
+C:\Users\Tommi\source\repos\viikko39\viikko39\obj\Debug\netcoreapp2.1\viikko39.csprojAssemblyReference.cache
+C:\Users\Tommi\source\repos\viikko39\viikko39\obj\Debug\netcoreapp2.1\viikko39.csproj.CoreCompileInputs.cache
+C:\Users\Tommi\source\repos\viikko39\viikko39\obj\Debug\netcoreapp2.1\viikko39.AssemblyInfoInputs.cache
+C:\Users\Tommi\source\repos\viikko39\viikko39\obj\Debug\netcoreapp2.1\viikko39.AssemblyInfo.cs
+C:\Users\Tommi\source\repos\viikko39\viikko39\bin\Debug\netcoreapp2.1\viikko39.deps.json
+C:\Users\Tommi\source\repos\viikko39\viikko39\bin\Debug\netcoreapp2.1\viikko39.runtimeconfig.json
+C:\Users\Tommi\source\repos\viikko39\viikko39\bin\Debug\netcoreapp2.1\viikko39.runtimeconfig.dev.json
+C:\Users\Tommi\source\repos\viikko39\viikko39\bin\Debug\netcoreapp2.1\viikko39.dll
+C:\Users\Tommi\source\repos\viikko39\viikko39\bin\Debug\netcoreapp2.1\viikko39.pdb
+C:\Users\Tommi\source\repos\viikko39\viikko39\obj\Debug\netcoreapp2.1\viikko39.dll
+C:\Users\Tommi\source\repos\viikko39\viikko39\obj\Debug\netcoreapp2.1\viikko39.pdb
